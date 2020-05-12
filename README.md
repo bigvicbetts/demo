@@ -6,7 +6,4 @@ Adding more text to this file.
 
 making some more changes
 
-making even more changes.
-
-
-Even more updates after branch.
+I hope this isn't much of a problem.
